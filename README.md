@@ -19,7 +19,7 @@
 - chromedriver下载地址：
 版本在114及以下：http://chromedriver.storage.googleapis.com/index.html
 版本在127：https://googlechromelabs.github.io/chrome-for-testing/#stable
-其他版本下载方法：
+- 其他版本下载方法：
 如版本127.0.6533 32位下载地址是：
 https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.100/win32/chromedriver-win32.zip
 
