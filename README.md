@@ -33,7 +33,7 @@ pip install -r requirements.txt
 克隆该项目：
 
 bash
-git clone https://github.com/你的用户名/douyin-web-scraper.git
+git clone https://github.com/liangbaikai07/douyin-web-scraper.git
 cd douyin-web-scraper
 安装所需依赖：
 
