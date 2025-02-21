@@ -33,8 +33,8 @@ pip install -r requirements.txt
 克隆该项目：
 
 bash
-git clone https://github.com/liangbaikai07/douyin-web-scraper.git
-cd douyin-web-scraper
+git clone https://github.com/liangbaikai07/douyin-image-crawler.git
+cd douyin-image-crawler
 安装所需依赖：
 
 bash
